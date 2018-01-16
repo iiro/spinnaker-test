@@ -2,4 +2,4 @@
 
 curl http://www.google.com
 
-sleep 10
+sleep 20
